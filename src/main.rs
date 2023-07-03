@@ -37,6 +37,8 @@ fn main() {
     
     let signal = [10780, 10784, 10777, 10770, 10788, 10800, 10804, 10798, 10784, 10765, 10772, 10760, 10720, 10708, 10709, 10700, 10697, 10696, 10696, 10706, 10709];
 
+    let filter_a = ffi::kb::math::FiltFilt;    
+
     // let filter_get: Vec<cxx::UniquePtr<ffi::filter_a>> = vec![cxx::UniquePtr::new(ffi::fiflter_a{&fc})];
 
 

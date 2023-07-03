@@ -1,0 +1,3 @@
+[submodule "FiltFilt"]
+	path = FiltFilt
+	url = https://github.com/KBaur/FiltFilt.git
